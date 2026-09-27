@@ -1,0 +1,2 @@
+# premium-jig-grinder-001-jig-grinder-setup-bore-polis
+Tired of inconsistent bore finishes and wasted setup time? Your jig grinder's true potential is buried under scattered notes and forgotten settings — this Notion template turns chaos into craft.  The "Jig Grinder Setup &amp; Bore Polish Craft Workshop" template centralizes every setup parameter, bore polish step, and tooling detail into one repeatable
